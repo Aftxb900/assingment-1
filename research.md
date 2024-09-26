@@ -1,1 +1,8 @@
 Research here
+## Educational goals 
+
+I see a number of similarities between my objectives as the UX designer and the findings of academic research and its function of maintaining the balance of cognitive appetites. In the same way that it helps move attention around in response to different conditions, I strive to develop a toolkit for adapting and responding to change in user requirements and market conditions. Financial independence then forms my solid base that I can further invest in leadership and management—important building blocks needed in orchestrating design teams as the cortex is to cognitive competition. 
+This can be seen when my desire to own my law firm is consistent with the definition of learning through exploration as this directs me towards new opportunities and different strategies just as higher order cognitive functions advance due to environment complexity. Last but not least, the returning to KSA means identifying certain local cultural factors necessary for the analysis of which strategy should or should not be applied, as it also confirms the presence of environmental signals that necessitate the change in strategies. Lastly, my career path to UX design demonstrates the continuous development of a deep specialist alongside the procedural flexibility as a part of cognition that in its nature resembles the higher intelligence of human beings.
+
+Mansouri, F. A., Koechlin, E., Rosa, M. G. P., & Buckley, M. J. (2017). Managing competing goals -- a key role for the frontopolar cortex. Nature Reviews Neuroscience, 18(11), 645+. http://dx.doi.org/10.1038/nrn.2017.111
+
